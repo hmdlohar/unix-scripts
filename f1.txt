@@ -1,0 +1,19 @@
+this is file with lots of lines
+this lines includes many words but we need to show
+only those words which have Length less then 4. 
+so are you| ready to do that??
+SDJIC college
+this is from SDJIC 
+BESTOSUNIX
+
+
+
+Yes
+i will not fail
+sdjic is my| college
+a great college in surat is sdjic
+2nd october is birthday of Gandhi
+2562513336
+
+
+end
